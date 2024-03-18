@@ -10,7 +10,10 @@
             {
                 Console.WriteLine(i);
             }
-
+            int a = 5;
+            int b = 6;
+            int z = a + b;
+            Console.WriteLine("SUM OF A AND B IS " +z);
         }
     }
 }
